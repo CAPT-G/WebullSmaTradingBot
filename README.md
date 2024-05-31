@@ -1,4 +1,4 @@
-Trading Bot for Webull - ReadMe
+###Trading Bot for Webull - ReadMe
 
 Overview
 
